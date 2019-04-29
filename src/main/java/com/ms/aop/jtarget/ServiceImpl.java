@@ -5,6 +5,6 @@ import org.springframework.stereotype.Component;
 
 @Slf4j
 @Component
-@Annotation1
 public class ServiceImpl extends Service {
+
 }

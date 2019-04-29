@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 /**
  * <b>description</b>： <br>
  * <b>time</b>：2019/4/19 8:37 <br>
- * <b>author</b>：ready likun_557@163.com
+ * <b>author</b>：十年java老兵，只生产干货，公众号：路人甲Java，微信号：itsoku
  */
 @Aspect
 @Component
